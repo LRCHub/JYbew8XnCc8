@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "R·I·O·T",
+  "base_artist": "RAISE A SUILEN",
+  "createdAt": "2025-12-21T02:29:22.596889Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "R・I・O・T",
+      "artist": "RAISE A SUILEN",
+      "has_synced": true,
+      "path": "select/01_R・I・O・T_RAISE_A_SUILEN.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "R・I・O・T",
+      "artist": "RAISE A SUILEN",
+      "has_synced": true,
+      "path": "select/02_R・I・O・T_RAISE_A_SUILEN.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "R・I・O・T(Raychell、小原莉子、夏芽、倉知玲鳳)",
+      "artist": "THE THIRD(仮)",
+      "has_synced": false,
+      "path": "select/03_R・I・O・T(Raychell、小原莉子、夏芽、倉知玲鳳)_THE_THIRD(仮).txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "R・I・O・T (without 大塚紗英) [Live]",
+      "artist": "THE THIRD (仮) ・ レイチェル, 小原莉子, 夏芽, 倉知玲鳳, 大塚紗英",
+      "has_synced": false,
+      "path": "select/04_R・I・O・T_(without_大塚紗英)_[Live]_THE_THIRD_(仮)_・_レイチェル,_小原莉子,_夏芽,_倉知玲鳳,_大塚紗英.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "R・I・O・T -instrumental-",
+      "artist": "RAISE A SUILEN",
+      "has_synced": true,
+      "path": "select/05_R・I・O・T_-instrumental-_RAISE_A_SUILEN.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "R・I・O・T (without 大塚紗英) [Live]",
+      "artist": "THE THIRD (仮) (レイチェル、小原莉子、夏芽、倉知玲鳳)",
+      "has_synced": false,
+      "path": "select/06_R・I・O・T_(without_大塚紗英)_[Live]_THE_THIRD_(仮)_(レイチェル、小原莉子、夏芽、倉知玲鳳).txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "R・I・O・T [instrumental]",
+      "artist": "RAISE A SUILEN",
+      "has_synced": true,
+      "path": "select/07_R・I・O・T_[instrumental]_RAISE_A_SUILEN.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "R.I.O.T.",
+      "artist": "Carman",
+      "has_synced": true,
+      "path": "select/08_R.I.O.T._Carman.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "R.I.O.T. (Righteous Invasion Of Truth)",
+      "artist": "Carman",
+      "has_synced": true,
+      "path": "select/09_R.I.O.T._(Righteous_Invasion_Of_Truth)_Carman.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "R・I・O・T",
+      "artist": "RAISE A SUILEN",
+      "has_synced": true,
+      "path": "select/10_R・I・O・T_RAISE_A_SUILEN.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "R・I・O・T -instrumental-",
+      "artist": "RAISE A SUILEN",
+      "has_synced": true,
+      "path": "select/11_R・I・O・T_-instrumental-_RAISE_A_SUILEN.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Watts R.I.O.T.",
+      "artist": "Kendrick Lamar",
+      "has_synced": true,
+      "path": "select/12_Watts_R.I.O.T._Kendrick_Lamar.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "R.I.O.T.",
+      "artist": "Carman",
+      "has_synced": true,
+      "path": "select/13_R.I.O.T._Carman.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "R.I.O.T. (Righteous Invasion of Truth)",
+      "artist": "Carman",
+      "has_synced": true,
+      "path": "select/14_R.I.O.T._(Righteous_Invasion_of_Truth)_Carman.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "R·I·O·T",
+      "artist": "RAISE A SUILEN",
+      "has_synced": false,
+      "path": "select/pl_01_R·I·O·T_RAISE_A_SUILEN.txt"
+    }
+  ]
+}
